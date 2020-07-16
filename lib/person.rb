@@ -4,8 +4,5 @@ end
 adele_goldberg = Person.new
 adele_goldberg 
  
-snoopy = Person.new
-snoopy 
- 
-lassie = Person.new
-lassie 
+alan_kay = Person.new
+alan_kay 
