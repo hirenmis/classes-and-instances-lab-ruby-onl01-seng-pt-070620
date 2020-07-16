@@ -1,8 +1,8 @@
 class Person
 end
  
-fido = Person.new
-fido 
+adele_goldberg = Person.new
+adele_goldberg 
  
 snoopy = Person.new
 snoopy 
